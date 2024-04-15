@@ -1,4 +1,4 @@
-import { View, StyleSheet, Text, Image, Button, TouchableOpacity } from 'react-native'
+import { View, StyleSheet, Text, Image, TouchableOpacity } from 'react-native'
 import Icon from 'react-native-vector-icons/FontAwesome';
 import React from 'react'
 
@@ -95,8 +95,5 @@ const styles = StyleSheet.create({
     padding:10,
     width:100,
     backgroundColor:"#FFC300"
-
   }
-
-
 })
